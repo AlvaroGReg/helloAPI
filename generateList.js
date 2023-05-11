@@ -11,7 +11,7 @@ i want to ask for data and retrieve another for testing both*/
  * generated name from an array of names, and a randomly generated grade between 0 and 10. The length
  * of the array is determined by the input parameter "length".
  */
-const nombres: string[] = [
+const nombres = [
     "Juan",
     "Carlos",
     "Ana",
